@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Ruthvik Kanukunta</h1>
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus")
+(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthvik2127&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvik2127" /> </p>
 
