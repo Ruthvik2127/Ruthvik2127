@@ -1,20 +1,9 @@
-
-<[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
-h1 align="center">Hi 👋, I'm Ruthvik Kanukunta</h1>
+<h1 align="center">Hi 👋, I'm Ruthvik Kanukunta</h1>
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
-(img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/116207...
-")
 
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthvik2127&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvik2127" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthvik2127" alt="ruthvik2127" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alpha_ruthvik" target="blank"><img src="https://img.shields.io/twitter/follow/alpha_ruthvik?logo=twitter&style=for-the-badge" alt="alpha_ruthvik" /></a> </p>
 
 - 🔭 I’m currently working on **Future Skills Prime ~ Virtual Internship**
 
