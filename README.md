@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+)](https://rishavchanda.io
+)
 <h1 align="center">Hi 👋, I'm Ruthvik Kanukunta</h1>
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
 (img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media")
