@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
+
 
 
 - 🔭 I’m currently working on **Future Skills Prime ~ Virtual Internship**
