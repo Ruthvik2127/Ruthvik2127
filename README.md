@@ -3,6 +3,7 @@
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
 (img align="right" alt="Coding" width="400" src="![Difj](https://user-images.githubusercontent.com/73475895/178951583-433d010d-f85b-465f-a68c-71df6a751227.gif)
 ")
+
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthvik2127&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvik2127" /> </p>
 
