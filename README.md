@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ruthvik Kanukunta</h1>
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
 (img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media")
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthvik2127&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvik2127" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthvik2127" alt="ruthvik2127" /></a> </p>
