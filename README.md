@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Future Skills Prime ~ Virtual Internship**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning : **Solidity**
 
 - 👯 I’m looking to collaborate on **Blockchain projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruthvik2127](https://github.com/ruthvik2127)
 
-- 📫 How to reach me **ruthvik.foss@gmail.com**
+- 📫 How to reach me : **ruthvik.foss@gmail.com**
 
-- ⚡ Fun fact **Super Cool dude representing here...**
+- ⚡ Fun fact ~ **Super Cool dude representing here...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
