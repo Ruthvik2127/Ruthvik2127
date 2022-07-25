@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruthvik Kanukunta</h1>
+<h1 align="center">Heyy !! folks 😉, I'm Ruthvik Kanukunta</h1>
 <h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
 
 
