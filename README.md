@@ -1,15 +1,15 @@
 <h1 align="center">Heyy !! folks 😉, I'm Ruthvik Kanukunta</h1>
-<h3 align="center">I'm a passionate Cloud Devops and Blockchain developer</h3>
+<h3 align="center">I'm passionate in AI with Machine Learning & Deep Learning Concepts and Cloud Computing too !</h3>
 
 
 
 
 
-- 🔭 I’m currently working on **Future Skills Prime ~ Virtual Internship**
+- 🔭 I’m currently working on **Projects on ML**
 
-- 🌱 I’m currently learning : **Solidity**
+- 🌱 I’m currently learning : **OpenCV & Azure**
 
-- 👯 I’m looking to collaborate on **Blockchain projects**
+- 👯 I’m looking to collaborate on **ML with Computer Vision projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruthvik2127](https://github.com/ruthvik2127)
 
