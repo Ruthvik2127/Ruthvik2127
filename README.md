@@ -1,5 +1,5 @@
 <h1 align="center">Heyy !! folks 😉, I'm Ruthvik Kanukunta</h1>
-<h3 align="center">I'm passionate in AI with Machine Learning & Deep Learning Concepts and Cloud Computing too !</h3>
+<h3 align="center">I'm passionate in AI with Machine Learning + Computer Vision concepts and Cloud Computing too !</h3>
 
 
 
