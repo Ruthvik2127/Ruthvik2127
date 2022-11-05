@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ruthvik_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruthvik_369" height="30" width="40" /></a>
+<a href="https://dev.to/ruthvik2127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruthvik_369" height="30" width="40" /></a>
 <a href="https://twitter.com/alpha_ruthvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpha_ruthvik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruthvik-kanukunta-7b3a62212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruthvik-kanukunta-7b3a62212" height="30" width="40" /></a>
 <a href="https://kaggle.com/ruthvik kanukunta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ruthvik kanukunta" height="30" width="40" /></a>
