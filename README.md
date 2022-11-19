@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthvik2127&show_icons=true&locale=en" alt="ruthvik2127" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthvik2127&" alt="ruthvik2127" /></p>
+
+[![@ruthvik2127's Holopin board](https://holopin.me/ruthvik2127)](https://holopin.io/@ruthvik2127)
