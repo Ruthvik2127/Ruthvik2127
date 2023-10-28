@@ -4,6 +4,9 @@
 
 
 
+
+
+
 - 🔭 I’m currently working on **Matlab Simulations for EEG and more..**
 
 - 👯 I’m looking to collaborate projects on **Making New Front End Interface Development Techniques**
