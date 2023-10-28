@@ -1,17 +1,12 @@
 <h1 align="center">Heyy !! folks 😉, I'm Ruthvik Kanukunta</h1>
-<h3 align="center">I'm passionate in AI with Machine Learning + Computer Vision concepts and Cloud Computing too !</h3>
+<h3 align="center">I'm passionate in EEG/BCI & AI for Robotics </h3>
 
 
 
 
+- 🔭 I’m currently working on **Matlab Simulations for EEG and more..**
 
-- 🔭 I’m currently working on **Projects on ML**
-
-- 🌱 I’m currently learning : **OpenCV & Azure**
-
-- 👯 I’m looking to collaborate on **ML with Computer Vision projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ruthvik2127](https://github.com/ruthvik2127)
+- 👯 I’m looking to collaborate projects on **Making New Front End Interface Development Techniques**
 
 - 📫 How to reach me : **ruthvik.foss@gmail.com**
 
