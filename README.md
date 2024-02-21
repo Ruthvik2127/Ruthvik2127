@@ -1,5 +1,5 @@
 <h1 align="center">Heyy !! folks 😉, I'm Ruthvik Kanukunta</h1>
-<h3 align="center">I am passionate about AI and Robotics and eager to contribute to innovation in these fields..</h3>
+<h3 align="center">I am passionate about AI and Robotics and eager to contribute to innovation in them..</h3>
 
 
 
