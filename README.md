@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 - 🔭 I’m currently working on **Learning Python and LabView for robotics works..**
 
 - 👯 I’m looking to research projects on **Robotics / AI&ML / LabView / Python**
